@@ -1,12 +1,7 @@
 LAMP is a platform designed to connect contractors with laborers in need of employment. In a world where many workers struggle to find jobs and sustain their livelihoods, Lamp shines as a ray of light, bridging the gap between employers and laborers. Just as a lamp illuminates the darkness, this platform brings hope and opportunity to those who need it most. Our mission is to create a seamless connection between those who provide work and those who seek it, fostering a brighter and more equitable future in the construction industry.
 
-<<<<<<< HEAD
 Features-:
-b_change
-=======
-Features-: hello very good
 
->>>>>>> a26ea14 (hello)
 ~ Job Listings: Employers can post construction job opportunities, making them accessible to a wide range of laborers.
 ~ Laborer Profiles: Laborers can create profiles showcasing their skills, experience, and availability.
 ~ AI-Powered Job Matching: Leveraging advanced AI algorithms, Lamp automatically matches laborers with job opportunities .
